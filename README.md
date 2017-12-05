@@ -1,3 +1,3 @@
 # HelloWorld
 First ever repository....
-....Just sying hello to the Github community!!
+....Just saying hello to the Github community!!
